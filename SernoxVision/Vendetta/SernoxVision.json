@@ -3,8 +3,8 @@
     "description": "Sernox Vision is a Clear vision edit",
 	"authors": [
       {
-         "name": "momma._.sernox",
-         "id": "685367217482629173",
+        "name": "momma._.sernox",
+        "id": "685367217482629173",
       
 	"name": "Taki_Shiwa",
         "id": "466968658997149706"
@@ -446,7 +446,7 @@
         "YELLOW_300": "#e62727"
     },
     "background": {
-        "url": "https://media.discordapp.net/attachments/624972690499043330/1149728642499362896/ClearVisionMobileBG2.jpg",
+        "url": "https://cdn.discordapp.com/attachments/624972690499043330/1149743298077016214/ClearVisionMobileBG10.jpg",
         "alpha": 0.63
     },
     "plus": {
