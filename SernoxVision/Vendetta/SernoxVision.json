@@ -1,6 +1,6 @@
 {
-    "name": "Sernox Vision v1.0",
-    "description": "Sernox Vision is a ClearVision edit.",
+    "name": "Sernox Vision v1.7",
+    "description": "Sernox Vision is a clear vision edit",
 	"authors": [
       {
          "name": "momma._.sernox",
@@ -315,7 +315,7 @@
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#280606",
-            "#f07e7e,
+            "#f07e7e",
             "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
